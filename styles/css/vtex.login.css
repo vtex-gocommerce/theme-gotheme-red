@@ -1,8 +1,7 @@
-.label {
-    color: #000;
-}
-
 .container [class*="gray"], .buttonLink div[class*="gray"]  {
-    color: #000;
+    color: #c92f45;
 }
 
+.label {
+    color: #000!important;
+}

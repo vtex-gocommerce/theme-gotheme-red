@@ -9,16 +9,16 @@
 .listTitle {
     font-size: 18px;
     margin-bottom: 20px;
-    color: #fff;
+    color: #777;
 }
 
 .footer {
-    background-color: #000; 
+    background-color: #fff;
     margin-top: 0;
 }
 
 .listLink, .textInformation {
-    color: #d8d8d8;
+    color: #777;
 }
 
 .textInformation {
@@ -33,7 +33,7 @@
 
 .accordionIcon svg {
     width: 11px;
-    color: #fff;
+    color: #777;
 }
 
 .accordionIcon {
@@ -41,7 +41,7 @@
 }
 
 .accordionTitle {
-    color: #fff;
+    color: #000;
     font-size: 18px;
     text-transform: none;
     margin: 0 0 10px;
@@ -50,7 +50,7 @@
 }
 
 .container {
-    background-color: #000;
+    background-color: #fff;
 }
 
 @media screen and (max-width: 40rem) {

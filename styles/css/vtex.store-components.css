@@ -14,11 +14,15 @@
 }
 
 .searchBarContainer input {
-    height: 48px;
-    border: 0;
-    border-bottom: 1px solid #000;
-    border-radius: 0;
+    height: 58px;
+    border: 1px solid #d8d8d8;
+    border-radius: 4px;
     color: #000;
+    padding: 0 30px;
+}
+
+.searchBarContainer input+span {
+    padding: 0 20px;
 }
 
 .sellingPrice {
@@ -34,11 +38,12 @@
 }
 
 .newsletter input {
-    background: none;
-    border: 0; 
-    border-radius: 0;
-    border-bottom: 1px solid #000;
+    height: 58px;
+    border: 1px solid #d8d8d8;
+    border-radius: 4px;
     color: #000;
+    padding: 0 30px;
+    font-size: 16px;
 }
 
 .logoContainer {
@@ -48,6 +53,11 @@
     position: relative;
     overflow: hidden;
     padding: 15px 40px;
+}
+
+.newsletter button {
+    height: 58px;
+    padding: 20px;
 }
 
 .logoContainer img {
