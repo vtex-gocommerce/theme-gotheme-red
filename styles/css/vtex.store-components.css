@@ -14,7 +14,7 @@
 }
 
 .searchBarContainer input {
-    height: 58px;
+    height: 50px;
     border: 1px solid #d8d8d8;
     border-radius: 4px;
     color: #000;
@@ -38,7 +38,7 @@
 }
 
 .newsletter input {
-    height: 58px;
+    height: 50px;
     border: 1px solid #d8d8d8;
     border-radius: 4px;
     color: #000;
@@ -56,7 +56,7 @@
 }
 
 .newsletter button {
-    height: 58px;
+    height: 50px;
     padding: 20px;
 }
 
