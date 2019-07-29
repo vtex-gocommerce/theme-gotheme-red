@@ -1,7 +1,7 @@
 {
   "vendor": "gocommerce",
   "name": "gotheme-red",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "title": "GoTheme Red",
   "builders": {
     "styles": "1.x",
