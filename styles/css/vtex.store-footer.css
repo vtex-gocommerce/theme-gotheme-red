@@ -10,6 +10,10 @@
     padding: 40px 0;
 }
 
+.row--menu-row .rowContainer {
+    align-items: flex-start;
+}
+
 .rowContainer [class*="paragraph"] {
     font-size: 14px;
     font-weight: normal;
