@@ -14,15 +14,24 @@
 }
 
 .searchBarContainer input {
-    height: 50px;
-    border: 1px solid #d8d8d8;
-    border-radius: 4px;
     color: #000;
+}
+
+.searchBarContainer :global(.vtex-input-prefix__group) {
+    height: 48px;
+    border: 1px solid #d8d8d8;
+    border-radius: 5px;
     padding: 0 30px;
+    color: #000;
+    background: #fff;
 }
 
 .searchBarContainer input+span {
     padding: 0 20px;
+}
+
+.subscriberContainer :global(.vtex-store-components-3-x-input), .subscriberContainer :global(.vtex-store-components-3-x-submit) {
+    display: none;
 }
 
 .sellingPrice {
@@ -38,12 +47,15 @@
 }
 
 .newsletter input {
+    padding: 0 30px;
+    color: #000;
+}
+
+.newsletter :global(.vtex-input-prefix__group) {
     height: 50px;
     border: 1px solid #d8d8d8;
-    border-radius: 4px;
+    border-radius: 5px;
     color: #000;
-    padding: 0 30px;
-    font-size: 16px;
 }
 
 .logoContainer {
