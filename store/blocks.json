@@ -192,7 +192,7 @@
   },
   "header-row#5-desktop": {
     "children": [
-      "category-menu"
+      "menu.custom"
     ],
     "props": {
       "sticky": false,
@@ -385,7 +385,7 @@
 
   "drawer": {
     "children": [
-      "category-menu"
+      "menu.custom"
     ]
   },
 
